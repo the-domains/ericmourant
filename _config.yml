@@ -1,7 +1,7 @@
 name: ericmourant
 favicon: null
-layout_spectrum: 0.5967294545844197
-typography_spectrum: 0.9879276687279344
+layout_spectrum: 1
+typography_spectrum: 0.7435
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.3378800321370363
-  lightness: 0.2720195685978979
+    - '#a3acab'
+    - '#141517'
+    - '#747c7e'
+    - '#e0d1d8'
+    - '#fdfeff'
+  brandStrength: 0.375
+  lightness: 0.25
   saturation: 0.6870334930717945
-  rhythmicContrast: 0.11981013789772987
+  rhythmicContrast: 0.25
 purpose: []
